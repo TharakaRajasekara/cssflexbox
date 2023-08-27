@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: borfer-box;
+}
+.item{
+    background: lightblue;
+    padding: 2rem;
+    border:1px solid blue;
+
+}
